@@ -1,0 +1,101 @@
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>personal website</title>
+</head>
+<body background="1.jpg" bgcolor="blueeeee" link="blue" alink="blue" vlink="blue">
+
+<!--Links at the top-->	
+	<h3 id="top" align="center">
+		<font face="courier" size="4"><b>
+		<a href="#portfolio">Art</a>&nbsp;&nbsp;&nbsp;
+			<a href="#about">ABOUT</a>&nbsp;&nbsp;&nbsp;
+			<a href="#experience">EXPERIENCE</a>&nbsp;&nbsp;&nbsp;
+			<a href="#interests">INTERESTS</a>&nbsp;&nbsp;&nbsp;
+			<a href="[mosesa12@nycstudents.net]">[Email]</a>&nbsp;&nbsp;&nbsp;
+			<a href="[https://www.linkedin.com/in/mosesalarape/]">LINKEDIN</a>
+    	</b></font>
+	</h3><br>
+
+<!--Introduction with picture-->
+	<table bgcolor="white "><tr>
+	    <td><img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/mr-pants-with-hat.png" height="150"></td>
+	    <td><h4><font face="arial" size="4">Welcome to my personal website and my name is moses alarape. i am making this website because i want people to know about me,my interests,myemail,Art,experience and my linkedin.  </font></h4></td>
+	</tr></table>
+
+<!--About Me-->
+	<br>
+	<h1 id="about" align="center">
+		<font face="helvetica" color="blue" size="5">
+			About Me
+		</font>
+	</h1>
+	<font face="helvetica" color="black" size="3">
+		I am a senior at bronx early college academy and im an inspiring chef. I am a always a creative,mindful and a critcal thinker. I have a dog and i am an Ib student at bronx early college acdemy im always looking to improve with is why I use self learning to teach myself things i want to learn a language on my own.
+	</font>
+	<br><br>
+
+<!--My Experience-->
+	<br>
+	<h1 id="experience" align="center">
+		<font face="helvetica" color="blue" size="5">
+			Experience
+		</font>
+	</h1>
+	<font face="helvetica" color="black" size="3">
+		<ul>
+		    <li>My work experience includes i helped a family member cook food for their resturant </li>
+		    <li>My volunteer experience includes i helped my school out in various things like tutoring,bulletin boards and orginization </li>
+		    <li>My soft skills include communication, leadership,self teaching and creativity skills</li>
+		    <li>My hard skills include cooking,working out and teaching</li>    
+		</ul>
+	</font>
+	
+<!--Interests-->
+	<br>
+	<h1 id="interests" align="center">
+		<font face="helvetica" color="blue" size="5">
+			Interests
+		</font>
+	</h1>
+	<font face="helvetica" color="black" size="3">
+		My interests include art,planning,socializing creating and learning. i have a lott of other intrest like gaming food and i love cooking i want to become a chef after high school.
+	</font>
+	<br><br><br>
+
+<!--Photos or Creative Work-->
+	<h1 align="center">
+		<font face="helvetica" color="blue" size="5">
+			[Visual art design portfolio.]
+		</font>
+	</h1>
+    <!--Visual Design Portfolio-->
+	<h1 id="portfolio" align="center">
+		<font face="helvetica" color="white" size="7">
+			Visual Design Portfolio
+		</font>
+	</h1>
+   	<table width="90%" align="center"><tr>
+		<td align="center"><a href="1.jpg"><img src="1.jpg" width="250"></a></td>
+   		<td align="center"><a href="2.jpg"><img src="2.jpg" width="250"></a></td>
+		<td align="center"><a href="3.jpg"><img src="3.jpg" width="250"></a></td>
+   	</tr><tr>
+   		<td>[Pixel art: i made this character by brainstorming charcters then i thought of pirates so i made this pirate character i really like.]</td>
+   		<td>[kaledoscope: I have to find a picture of leaves and filter it and after i did that i saved it.
+I took the leaves that I filtered and mirrored it once and it made this nice design so i only kept it mirrored once because I liked the design.It became this really cool design that reminded me of a white tree in the dark so i kept it because i thought it was creative.
+
+.]</td>
+   		<td>[Pop art: In this project the tools i used were the paint bucket,swatches, backgrounds,pencil, free transform, crop, duplicate layer and filter gallery. I chose the rock because i thought it would be a good celebrity because of how iconic they are..]</td>
+   	</tr></table><br><br>
+
+	<h1 align="center">
+	 <a href="#top"><font face="Courier" color="black">BACK TO THE TOP</font></a>
+	</h1>
+</body>
+</html>
+
+
+	<h3 align="center">
+	    <a href="#top"><font face="Courier" color="black">BACK TO THE TOP</font></a>
+	</h3>
+
